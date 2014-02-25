@@ -1,0 +1,75 @@
+
+JOYS OF THE CRAFT
+"Why is programming fun? WHat delights may its practitioner expect as his
+reward?  
+First is the sheer joy of making things. As the child delights in his
+mud pie, so the adult enjoys building things, especially things of his own
+design. 
+...Second is the pleasure of making things that are useful to other people. Deep
+within, we want others to use our work and to find it helpful.
+...Third is the fascination of fashioning complex puzzle-like objects of
+interlocking moving parts and watching them work in subtle cycles, playing out
+the consequences of principles built in from the beginning.
+...Fourth is the joy of always learning, which springs from the nonrepeating
+nature of the task.
+...Finally, there is the delight of working in such a tractable medium. The
+programmer, like the poet, works only slightly removed from pure thought-stuff.
+He builds his castles in the air, from air, creating by exertion of the
+imagination. Few media of creation are so flexible, so easy to polish and
+rework, so readily capable of realizing grand conceptual structures." (pg. 7)
+
+WOES OF THE CRAFT
+"...one must perform perfectly. The computer resembles the magic of legend in
+this respect, too. If one character, one pause, of the incantation is not
+strictly in proper form, the magic doesn't work."
+
+"The dependence upon others has a particular case that is especially painful for
+the system programmer. He depends upon other people's programs. These are often
+maldesigned, poorly implemented, incompletely delivered (no source code or test
+cases), and poorly documented." (pg. 8)
+
+"The last woe, and sometimes the last straw, is that the product over which one
+has labored so long appears to be obsolete upon (or before) completion. Already
+colleagues or competitors are in hot pursuit of new and better ideas." (pg. 9)
+
+"Good cooking takes time. If you are made to wait, it is to serve you better,
+and to please you. -Menu of Restaurant Antoine, New Orleans" (pg. 13)
+
+OPTIMISM
+"All programmers are optimists. Perhaps this modern sorcery especially attracts
+those who believe in happy endings and fairy godmothers. Perhaps the hundreds of
+nitty frustrations drive away all but those who habitually focus on the end
+goal. Perhaps it is merely that computers are young, programmers are younger,
+and the young are always optimists. But however the selection process works, the
+result is indisputable: "THis time it will surely run," or "I just found the
+last bug." (pg. 14)
+
+"Computer programming... creates with an exceedingly tractable medium. The
+programmer builds from pure thought-stuff: concepts and very flexible
+representations thereof. Because the medium is tractable, we expect few
+difficulties in implementation; hence our pervasive optimism. Because our ideas
+are faulty, we have bugs; hence our optimisim unjustified." (pg. 15)
+
+SYSTEMS TEST
+"For some years I have been successfully using the following rule of thumb for
+scheduling a software task:
+1/3 planning
+1/6 coding
+1/4 component test and early system test
+1/4 system test, all components in hand"
+
+"In examining conventionally scheduled projects, I have found that few allowed
+one-half of the project schedule for testing, but that most did indeed spend
+half of the actual schedule for that purpose."
+
+"Failure to allow enough time for system test... is peculiarly disastrous. Since
+the delay comes at the end of the schedule, no one is aware of schedule trouble
+until almost the delivery date. Bad news, late and without warning, is
+unsettling to customers and to managers.
+...delay at this point has unusually severe financial, as well as psychological,
+repercussions." (pg. 20)
+
+
+
+
+
