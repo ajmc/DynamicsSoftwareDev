@@ -22,4 +22,23 @@ thinking of all the team members.
 The technology plan is the contract among the team members, the constitution of
 the group." (pg. 22) 
 
+"Strategic features were centered around fundamental and constraining choices...
+Competitive features responded to or perhaps even trumped a feature that their
+competition had and they didn't...
+Customer satisfaction features were feature they head about all the time that
+their customers wanted...
+Investment features were those things they decided to do to their technology
+even though the benefits wouldn't show up in the next release (or even in the
+next few releases)...
+Paradigmatic features... were those that changed the way people worked." (pg.
+25-26)
+
+"The team members will be conscious of the extent of the work that went into the
+plan and aware that new initiatives will have to pass through a similarly
+extensive process. An idea therefore has to have considerable merit and
+probability of survival before it even gets submitted to the team for
+consideration. THis tends to reduce random probability of survival before it
+even gets submitted to the team for consideration. This tends to reduce random
+proposals and creates a relatively stable environment." (pg. 26)
+
 
