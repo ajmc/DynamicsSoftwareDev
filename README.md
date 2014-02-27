@@ -1,7 +1,5 @@
-Research Notes
+References
 ==============
-
-## References
 
 ### Books
 
