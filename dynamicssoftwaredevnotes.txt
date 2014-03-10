@@ -24,14 +24,12 @@ the group." (pg. 22)
 
 "Strategic features were centered around fundamental and constraining choices...
 Competitive features responded to or perhaps even trumped a feature that their
-competition had and they didn't...
-Customer satisfaction features were feature they head about all the time that
-their customers wanted...
-Investment features were those things they decided to do to their technology
-even though the benefits wouldn't show up in the next release (or even in the
-next few releases)...
-Paradigmatic features... were those that changed the way people worked." (pg.
-25-26)
+competition had and they didn't...  Customer satisfaction features were feature
+they head about all the time that their customers wanted...  Investment features
+were those things they decided to do to their technology even though the
+benefits wouldn't show up in the next release (or even in the next few
+releases)...  Paradigmatic features... were those that changed the way people
+worked." (pg.  25-26)
 
 "The team members will be conscious of the extent of the work that went into the
 plan and aware that new initiatives will have to pass through a similarly
@@ -41,4 +39,12 @@ consideration. THis tends to reduce random probability of survival before it
 even gets submitted to the team for consideration. This tends to reduce random
 proposals and creates a relatively stable environment." (pg. 26)
 
+"#4: Don't flip the bozo bit" (pg. 27)
+
+"When the endgame of the previous project runs a tad too long - say, a couple of
+unexpected months on top of several earlier slips - when the limits of
+executive ignorance and emotional stability have been thoroughly tested, when
+customers are howling about broken promises and the press is (or your colleagues
+are) snickering about your vaporware, that final exhilarating push to ship the
+project can deteriorate into a death march." (pg. 31)
 
