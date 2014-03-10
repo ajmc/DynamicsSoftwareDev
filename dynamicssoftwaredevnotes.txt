@@ -42,9 +42,97 @@ proposals and creates a relatively stable environment." (pg. 26)
 "#4: Don't flip the bozo bit" (pg. 27)
 
 "When the endgame of the previous project runs a tad too long - say, a couple of
-unexpected months on top of several earlier slips - when the limits of
-executive ignorance and emotional stability have been thoroughly tested, when
-customers are howling about broken promises and the press is (or your colleagues
-are) snickering about your vaporware, that final exhilarating push to ship the
+unexpected months on top of several earlier slips - when the limits of executive
+ignorance and emotional stability have been thoroughly tested, when customers
+are howling about broken promises and the press is (or your colleagues are)
+snickering about your vaporware, that final exhilarating push to ship the
 project can deteriorate into a death march." (pg. 31)
+
+"They know how many bugs they're shipping with. They know how deformed and
+inelegant the code is. There are huge expanses of brittle code that no one
+understands. They are afraid that it doesn't really work. Along the way,
+expediency has eroded their technical self-esteem. While they're not proud of
+that, there is a kind of pride that emerges, the pride of veterans, of
+survivors. They have faced combat and lived. In a project that has been properly
+load-balanced, each and every team member ends up convinced that his or her
+heroic personal sacrifices are what caused the product to ship. And they're
+right. Tremendous individual efforts, each critical, has made the difference."
+(pg. 31)
+
+"#5: Use Scouts" (pg. 32)
+
+"Before you begin the next project, scout it out.
+
+... From time immemorial, whenever significant groups of people have been on a
+dangerous journey, they have sent scouts forward to check out the future. A
+software project is nothing if not a dangerous journey undertaken by significant
+groups of people, so send a clever person or two "up ahead" to scout out the
+next project." (pg. 32)
+
+"Scouts can create or update the multi-release technology plan.. They can visit
+customers, get trained on competitive technology, make essential acquisitions,
+and lay out methods and procedures for the next project." (pg. 32)
+
+"The basic idea... is not to slow the pace of change, or to create more
+stability; but to get good at change, at managing technology in motion. Dance is
+more beautiful than stasis. Movement holds more potential for adaptation and
+self-actualization than rigidity." (pg. 34)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
