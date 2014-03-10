@@ -69,6 +69,63 @@ unsettling to customers and to managers.
 ...delay at this point has unusually severe financial, as well as psychological,
 repercussions." (pg. 20)
 
+GUTLESS ESTIMATING
+"Observe that for the programmer, as for the chef, the urgency of the patron may govern the scheduled completion of the task, but it cannot govern the actual completion. "
+
+"It is very difficult to make a vigorous, plausible, and job-risking defense of an estimate that is derived by no quantitative method, supported by little data, and certified chiefly by the hunches of the managers." (pg. 21)
+
+Ch. 3: The Surgical Team
+
+"Mills proposes that each segment of a large job be tackled by a team, but that the team be organized like a surgical team rather than a hog-butchering  team. That is, instead of each member cutting away on the problem, one does the cutting and the others give him every support that will enhance his effectiveness and productivity." (pg. 32)
+
+"The sugeon. Mills calls him a chief programmer. He personally defines the functional and performance specifications, designs the program, codes it, tests it, and writes its documentation."
+
+"The copilot. He is the alter ego of the surgeon, able to do any part of the job, but is less experienced. His main function is to share in the design as a thinker, discussant, and evaluator. The surgeon tries ideas on him, but is not bound by his advice."
+
+"The administrator. The surgeon is boss, and he must have the last word on personnel, raises, space, and so on, but he must spend almost none of his time on these matters. Thus he needs a professional administrator who handles money, people, space, and machines, and who interfaces with the administrative machinery of the rest of the organization." (pg. 33)
+
+"The editor. The surgeon is responsible for generating the documentation... The editor, however, takes the draft or dictated manuscript produced by the surgeon and criticizes it, reworks it, provides it with references and bibliography, nurses it through several versions, and oversees the mechanics of production." (pg. 33)
+
+"Two secretaries. The administrator and the editor will each need a secretary; the administrator's secretary will handle project correspondence and non-product files."
+
+"The program clerk. He is responsible for maintaining all the technical records of the team in a programming-product library. The clerk is trained as a secretary and has responsibility for both machine-readable and human-readable files." (pg. 33)
+
+"The toolsmith... " (pg. 34)
+
+"The tester... "
+
+"The language lawyer. By the time Algol came along, people began to recognize that most computer installations have one or two people who delight in mastery of the intricacies of a programming language. And these experts turn out to be very useful and very widely consulted. The talent here is rather different from that of the surgeon, who is primarily a system designer and who thinks representations. The language lawyer can find a neat and efficient way to use the language to do difficult, obscure, or tricky things." (pg. 34-35)
+
+Ch. 4: Aristocracy, Democracy, and System Design
+
+CONCEPTUAL INTEGRITY
+"... conceptual integrity is the the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas." (pg. 42)
+
+ACHIEVING CONCEPTUAL INTEGRITY
+"The purpose of a programming system is to make a computer easy to use. To to do this, it furnishes languages and various facilities that are in fact programs invoked and controlled by language features." (pg. 43)
+
+"Because ease of use is the purpose, this ratio of function to conceptual complexity is the ultimate test of system design."
+
+"... that system is best in which one can specify things with the most simplicity and straightforwardness." (pg. 44)
+
+"Simplicity and straighforwardness proceeds from conceptual integrity. Every part must reflect the same philosophies and the same balancing of desiderata."
+
+ARISTOCRACY AND DEMOCRACY
+"Conceptual integrity in turn dictates that the design must proceed from one mind, or from a very small number of agreeing resonant minds."
+
+"Schedule pressures, however, dictate the system building needs many hands. Two techniques are available for resolving this... The first is a careful division of labor between architecture and implementation. The second is the .. [surgical team discussed in Ch. 3]" 
+
+"architecture... the complete and detailed specification of the user interface." (pg. 45)
+
+"As Blaauw has said, "Where architecture tells what happened, implementation tells how it is made to happen."
+
+"the conceptual integrity of a system determines its ease of use. Good features and ideas that do not integrate with a system's basic concepts are best left out. If there appear many such important but incompatible ideas, one scraps the whole system and starts again on an integrated system with different basic concepts." (pg. 46)
+
+Ch. 5: The Second-System Effect
+
+"Adde parvum parvo magnus acervus erit.
+[Add little by little and there will be a big pile.]
+-Ovid" (pg. 53)
 
 
 
