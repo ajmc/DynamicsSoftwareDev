@@ -164,6 +164,108 @@ Ch. 5: The Second-System Effect
 "Adde parvum parvo magnus acervus erit.  [Add little by little and there will be
 a big pile.] -Ovid" (pg. 53)
 
+INTERACTIVE DISCIPLINE FOR THE ARCHITECT
+
+"The architect of a building works against a budget, using estimating techniques
+that are later confirmed or corrected by the contractor's bids."
+
+"An analogous process governs the architect of a computer system or a
+programming system. He has, however, the advantage of getting bids from the
+contractor at many early points in his design, almost any time he asks for them.
+He usually has the disadvantage of working with only one contractor, who can
+raise or lower his estimates to reflect his pleasure with the design."
+
+"The architect has two possible answers when confronted with an estimate that is
+too high: cut the design or challenge the estimate by suggesting cheaper
+implementations. This latter is inherently an emotion-generating activity. The
+architect is now challenging the builder's way of doing the builder's job." (pg.
+54)
+
+"Normally the builder will counter by suggesting changes to the architecture.
+Often he is right - some minor feature may have unexpectedly large costs when
+the implementation is worked out."
+
+SELF-DISCIPLINE - THE SECOND-SYSTEM EFFECT
+
+"An architect's first work is apt to be spare and clean. He knows he doesn't
+know what he's doing, so he does it carefully and with great restraint."
+
+"Sooner or later the first system is finished, and the architect, with firm
+confidence and a demonstrated mastery of that class of systems, is ready to
+build a second system... This second system is the most dangerous system a man
+ever designs."
+
+"The general tendency is to over-design the second system, using all the ideas
+and frills that were cautiously sidetracked on the first one." (pg. 55)
+
+"The second-system effect has another manifestation somewhat different from pure
+functional embellishment. That is the tendency to refine techniques whose very
+existence has been made obsolete by changes in basic system assumptions." (pg.
+56)
+
+"How does the architect avoid the second-system effect? Well, obviously he can't
+skip his second system. But he can be conscious of the peculiar hazards of that
+system, and exert extra self-discipline to avoid functional ornamentation and to
+avoid extrapolation of functions that are obviated by changes in assumptions and
+purposes."
+
+"Hows the project manager avoid the second-system effect? By insisting on a
+senior architect who has at least two systems under his belt." (pg. 58)
+
+Ch. 6: Passing the Word
+
+WRITTEN SPECIFICATIONS - THE MANUAL
+
+"The manual is the external specification of the product. It describes and
+prescribes every detail of what the user sees. As such, it is the chief product
+of the architect."
+
+"The manual must not only describe everything the user does see, including all
+interfaces; it must also refrain from describing what the user does not see."
+
+"... precision is more important that liveliness." (pg. 62)
+
+"It defines compatibility, prescribes what is to be achieved, and enumerates
+those areas of external appearance where the architecture is intentionally
+silent..."
+
+FORMAL DEFINITIONS
+
+"... the manual writer must strain himself and his language to achieve the
+precision needed. An attractive alternative is to use a formal notation for such
+definitions."
+
+CONFERENCES AND COURTS
+
+"Needless to say, meetings are necessary. The hundreds of man-to-man
+consultations must be supplemented by larger and more formal gatherings. We
+found two levels of these to be useful. The first is a weekly half-day
+conference of all the architects, plus official representatives of the hardware
+and software implementers, and the market planners. The chief system architect
+presides."
+
+"Anyone can propose problems or changes, but proposals are usually distributed
+before the meeting. A new problemis usually discussed a while. The emphasis is
+on creativity, rather than merely decision." (pg. 66)
+
+"Detailed change proposals then come up for decisions. These have been
+circulated and carefully considered by implementers and users, and the pros and
+cons are well delineated. If a consensus emerges, well and good. If not, the
+chief architect decides. Minutes are kept and decisions are formally, promptly,
+and widely disseminated." (pg. 66-67)
+
+"Decisions fromt he weekly conferences give quick results and all work to
+proceed. If anyone is too unhappy, instant appeals to the project manager are
+possible, but this happens very rarely."
+
+"The formality of written proposals focuses attention, forces decision, and
+avoids committee-draft inconsistencies."
+
+"The clear vesting of decision-making power in the chief architect avoids
+compromise and delay." (pg. 67)
+
+
+
 
 
 
