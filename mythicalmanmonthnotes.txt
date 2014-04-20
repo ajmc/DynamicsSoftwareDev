@@ -264,6 +264,138 @@ avoids committee-draft inconsistencies."
 "The clear vesting of decision-making power in the chief architect avoids
 compromise and delay." (pg. 67)
 
+MULTIPLE IMPLEMENTATIONS
+
+"In most computer projects there comes a day when it is discovered that the
+machine and the manual don't agree. When the confrontation follows, the manually
+usually loses, for it can be changed far more quickly and cheaply than the
+machine."
+
+THE TELEPHONE LOG
+
+"As implementation proceeds, countless questions of architectural interpretation
+arise, no matter how precise the specification." (pg. 68)
+
+"One useful mechanism is a telephone log kept by the architect. In it he records
+every question and every answer."
+
+PRODUCT TEST
+
+"The project manager's best friend is his daily adversary, the independent
+product-testing organization. This group checks machines and programs against
+specifications and serves as a devil's advocate, pinpointing every conceivable
+defect and discrepancy. Every development organization needs such an independent
+technical auditing group to keep it honest."
+
+"In the last analysis the customer is the independent auditor. In the merciless
+light of real use, every flaw will show. The product-testing group then is the
+surrogate customer, specialized for finding flaws." (pg. 69)
+
+Ch. 7: Why Did the Tower of Babel Fail?
+
+COMMUNICATION IN THE LARGE PROGRAMMING PROJECT
+
+"Schedule disaster, functional misfits, and system bugs all arise because the
+left hand doesn't know what the right hand is doing. As the work proceeds, the
+several teams slowly change the functions, sizes, and speeds of their own
+programs, and they explicitly or implicitly change their assumptions about the
+inputs available and the uses to be made of the outputs." (pg. 74)
+
+"How, then, shall teams communicate with one another? In as many ways as
+possible."
+
+"Informally. Good telephone service and a clear definition of intergroup
+dependencies will encourage the hundreds of calls upon which common
+interpretation of written documents depends."
+
+"Meetings. Regular project meetings, with one team after another giving
+technical briefings, are invaluable. Hundreds of minor misunderstandings get
+smoked out this way."
+
+"Workbook. A formal project workbook must be started at the beginning. This
+deserves a section by itself."
+
+THE PROJECT WORKBOOK
+
+"The project workbook is not so much a seperate document as it is a structure
+imposed on the documents that the project will be producing anyway."
+
+"All the documents of the project need to be part of this structure. This
+includes objectives, external specification, interface specifications, technical
+standards, internal specifications, and administrative memoranda." (pg. 75)
+
+"The early design of the project workbook ensures that the documentation
+structure itself is crafted, not haphazard."
+
+"The second reason for the project workbook is control of the distribution of
+information. The problem is not to restrict information, but to ensure that
+relevant information gets to all the people who need it."
+
+"Of critical importance is timely updating. The workbook must be current." (pg.
+76)
+
+ORGANIZATION IN THE LARGE PROGRAMMING PROJECT
+
+"If there are n workers on a project, there are (n2[n squared]-n)/2 interfaces
+across which there may be communication, and there are potentially almost 2n
+teams within which coordination must occur. The purpose of organization is to
+reduce the amount of communication and coordination necessary; hence
+organization is a radical attack on the communication problems treated above."
+(pg. 78-79)
+
+"... A tree organization arises as a structure of authority and responsibility."
+
+"... consider a tree-like programming organization... They are: 1. a mission 2.
+a producer 3. a technical director or architect 4. a schedule 5. a division of
+labor 6. interface definitions among the parts"
+
+"All of this is obvious and conventional except the distinction between the
+producer and the technical director."
+
+"What is the role of the producer? He assembles the team, divides the work, and
+establishes the schedule. He acquires and keeps on acquiring the necessary
+resources. This means that a major part of his role is communication outside the
+team, upwards and sideways. He establishes the pattern of communication and
+reporting within the team. Finally, he ensures that the schedule is met,
+shifting resources and organization to respond to changing circumstances." (pg.
+79)
+
+The Technical Director "... conceives of the design to be built, identifies its
+subparts, specifies how it will look from outside, and sketches its internal
+structure. He provides unity and conceptual integrity to the whole design; thus
+he serves as a limit on system complexity."
+
+"His communications are chiefly within the team. His work is almost completely
+technical."
+
+"The producer and the technical director may be the same man. This is readily
+workable on very small teams, perhaps three to six programmers. On larger
+projects it is very rarely workable, for two reasons. First, the man with strong
+management talent and strong technical talent is rarely found. Thinker are rare;
+doers are rarer; and thinker-doers are rarest."
+
+"The producer may be the boss, the director his right-hand man. The difficulty
+here is to establish the director's authority to make technical decisions
+without impacting his time as would putting him in the management
+chain-of-command." (pg. 80)
+
+"Obviously the producer must proclaim the director's technical authority, and he
+must back it in an extremely high proportion of the test cases that will arise.
+For this to be possible, the producer and the director must see alike on
+fundamental technical philosophy; they must talk out the main technical issues
+privately, before they really become timely; and the producer must have a high
+respect for the director's technical prowess." (pg. 80-81)
+
+"Less obviously, the producer can do all sorts of subtle things with the symbols
+of status (office size, carpet, furnishing, carbon copies, etc.) to proclaim
+that the director, although outside the management line, is a source of decision
+power."
+
+"The director may be boss, and the producer his right-hand man." (pg. 81)
+
+"Communication and its consequent, organization, are critical for success." (pg.
+83)
+
 
 
 
