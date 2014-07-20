@@ -590,32 +590,95 @@ inexorably."
 "But the day-to-day slippage is harder to recognize, harder to prevent, harder
 to make up." (pg. 154)
 
-"How does one control a big project on a tight schedule? The first step is to have a schedule. Each of a list of events, called milestones, has a date."
+"How does one control a big project on a tight schedule? The first step is to
+have a schedule. Each of a list of events, called milestones, has a date."
 
-"Milestones must be concrete, specific, measurable events, defined with knife-edge sharpness."
+"Milestones must be concrete, specific, measurable events, defined with
+knife-edge sharpness."
 
 "Concrete milestones... are 100-percent events." (pg. 154)
 
-"It is more important that milestones be sharp-edged and unambiguous than that they be easily verifiable by the boss. Rarely will a man lie about milestone progress, if the milestone is so sharp that he can't deceive himself. But if the milestone is fuzzy, the boss often understands a different report from that which the man gives."
+"It is more important that milestones be sharp-edged and unambiguous than that
+they be easily verifiable by the boss. Rarely will a man lie about milestone
+progress, if the milestone is so sharp that he can't deceive himself. But if the
+milestone is fuzzy, the boss often understands a different report from that
+which the man gives."
 
-"Sharp milestones are in fact a service to the team, and one they can properly expect from a manager. The fuzzy milestone is the harder burden to live with. It is in fact a millstone that grinds down morale, for it deceives one about lost time until it is irremediable. And chronic schedule slippage is a morale-killer." (pg. 155)
+"Sharp milestones are in fact a service to the team, and one they can properly
+expect from a manager. The fuzzy milestone is the harder burden to live with. It
+is in fact a millstone that grinds down morale, for it deceives one about lost
+time until it is irremediable. And chronic schedule slippage is a
+morale-killer." (pg. 155)
 
-"A baseball manager recognizes a nonphysical talent, hustle, as an essential gift of great players and great teams. It is the characteristic of running faster than necessary, moving sooner than necessary, trying harder than necessary. It is essential for great programming teams, too. Hustle provides the cushion, the reserve capacity, that enables a team to cope with routine mishaps, to anticipate and forfend minor calamities." (pg. 155-156)
+"A baseball manager recognizes a nonphysical talent, hustle, as an essential
+gift of great players and great teams. It is the characteristic of running
+faster than necessary, moving sooner than necessary, trying harder than
+necessary. It is essential for great programming teams, too. Hustle provides the
+cushion, the reserve capacity, that enables a team to cope with routine mishaps,
+to anticipate and forfend minor calamities." (pg. 155-156)
 
-"As we have seen, one must get excited about a one-day slip. Such are the elements of catastrophe." (pg. 156)
+"As we have seen, one must get excited about a one-day slip. Such are the
+elements of catastrophe." (pg. 156)
 
-"The first-line manager fears that if he reports his problem, the boss will act on it. Then his action will preempt the manager's function, diminish his authority, foul up his other plans. So as long as the manager thinks he can solve it alone, he doesn't tell the boss."
+"The first-line manager fears that if he reports his problem, the boss will act
+on it. Then his action will preempt the manager's function, diminish his
+authority, foul up his other plans. So as long as the manager thinks he can
+solve it alone, he doesn't tell the boss."
 
 "Two rug-lifting techniques are open to the boss":
 
-"Reducing the role conflict. The boss must first distinguish between action information and status information. He must discipline himself not to act on problems his managers can solve, and never to act on problems when he is explicitly reviewing status... Conversely, when the manager knows his boss will accept status reports without panic or preemption, he comes to give honest appraisals." (pg. 157)
+"Reducing the role conflict. The boss must first distinguish between action
+information and status information. He must discipline himself not to act on
+problems his managers can solve, and never to act on problems when he is
+explicitly reviewing status... Conversely, when the manager knows his boss will
+accept status reports without panic or preemption, he comes to give honest
+appraisals." (pg. 157)
 
-"Yanking the rug off... it is necessary to have review techniques by which the true status is made known, whether cooperatively or not. The PERT chart with its frequent sharp milestones is the basis for such review. On a large project one may want to review some part of it each week, making the rounds once a month or so." (pg. 158)
+"Yanking the rug off... it is necessary to have review techniques by which the
+true status is made known, whether cooperatively or not. The PERT chart with its
+frequent sharp milestones is the basis for such review. On a large project one
+may want to review some part of it each week, making the rounds once a month or
+so." (pg. 158)
 
-"The preparation of the PERT chart is a function of the boss and the managers reporting to him. Its updating, revision, and reporting requires the attention of a small staff group which serves as an extension to the boss."
+"The preparation of the PERT chart is a function of the boss and the managers
+reporting to him. Its updating, revision, and reporting requires the attention
+of a small staff group which serves as an extension to the boss."
 
-This Plans and Control group "is the watchdog who renders the imperceptible delays visible and who points up the critical elements. It is the early warning system against losing a year, one day at a time." (pg. 160)
+This Plans and Control group "is the watchdog who renders the imperceptible
+delays visible and who points up the critical elements. It is the early warning
+system against losing a year, one day at a time." (pg. 160)
 
 Ch. 15: The Other Face
+
+"A computer program is a message from a man to a machine. The rigidly marshaled
+syntax and the scrupulous definitions all exist to make intention clear to the
+dumb engine. But a written program has another face, that which tells its story
+to the human user."
+
+"How much more vital is the documentation for a public program, whose user is
+remote from the author in both time and space!" (pg. 164)
+
+WHAT DOCUMENTATION IS REQUIRED?
+
+"To use a program. Every user needs a prose description of the program. Most
+documentation fails in giving too little overview. The trees are described, the
+bark and leaves are commented, but there is no map of the forest."
+
+To include: Purpose, Environment, Domain and range, Functions realized and
+algorithms used, Input-output formats, Operating instructions, Options, Running
+time, Accuracy and checking
+
+"Often all this information can be set forth in three or four pages. That
+requires close attention to conciseness and precision." (pg. 165)
+
+EPILOGUE
+
+"The tar pit of software engineering will continue to be sticky for a long time
+to come. One can expect the human race to continue attempting systems just
+within or just beyond our reach; and software systems are perhaps the most
+intricate and complex of man's handiworks. The management of this complex craft
+will demand our best use of new languages and systems, our best adaptation of
+proven engineering management methods, liberal doses of common sense, and a
+God-given humility to recognize our fallibility and limitations." (pg. 177)
 
 
