@@ -528,3 +528,66 @@ THE ONLY CONSTANCY IS CHANGE ITSELF
 
 "The first step is to accept the fact of change as a way of life, rather than an
 untoward and annoying exception." (pg. 117)
+
+"... the programmer delivers satisfaction of a user need rather than any
+tangible product."
+
+"... some changes in objectives are inevitable, and it is better to be prepared
+for them than to assume that they won't come."
+
+"The throw-one-away concept is itself just an acceptance of the fact that as one
+learns, he changes the design." (pg. 117)
+
+PLAN THE ORGANIZATION FOR CHANGE
+
+"Structuring an organization for change is much harder than designing a system
+for change. Each man must be assigned to jobs that broaden him, so that the
+whole force is technically flexible. On a large project the manager needs to
+keep two or three top programmers as a technical calvary that can gallop to the
+rescue wherever the battle is thickest." (pg. 118)
+
+"Managers need to be sent to technical refresher courses, senior technical
+people to management training."
+
+"A program doesn't stop changing when it is delivered for customer use. The
+changes after delivery are called program maintenance." (pg. 120)
+
+"It consists chiefly of changes that repair design defects."
+
+"The total cost of maintaining a widely used program is typically 40 percent or
+more of the cost of developing it. Surprisingly, this cost is strongly affected
+by the number of users. More users find more bugs." (pg. 121)
+
+"The fundamental problem with program maintenance is that fixing a defect has a
+substantial (20-50 percent) chance of introducing another. So the whole process
+is two steps forward and one step back." 
+
+"... the repairer is usually not the man who wrote the code, and often he is a
+junior programmer or a trainee."
+
+"As time passes, the system becomes less and less well-ordered. Sooner or later
+the fixing ceases to gain any ground. Each step forward is matched by a backward
+one... A brand-new, from-the-ground-up redesign is necessary."
+
+""Things are always at their best in the beginning," said Pascal" (pg. 123)
+
+Ch. 12: Sharp Tools
+
+AJM: Largely irrelevant today. In short, use a high-level programming language
+and a good documentation/project management tool. 
+
+Ch. 13: The Whole and the Parts
+
+AJM: Largely irrelevant today but historically interesting. 
+
+Ch. 14: Hatching a Catastrophe
+
+"When one hears of disastrous schedule slippage in a project, he imagines that a
+series of major calamities have befallen it. Usually, however, the disaster is
+due to termites, not tornadoes; and the schedule has slipped imperceptibly but
+inexorably."
+
+"But the day-to-day slippage is harder to recognize, harder to prevent, harder
+to make up." (pg. 154)
+
+
