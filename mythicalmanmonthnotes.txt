@@ -396,8 +396,135 @@ power."
 "Communication and its consequent, organization, are critical for success." (pg.
 83)
 
+Ch. 8: Calling the Shot
 
+PORTMAN'S DATA
 
+"He found his programming teams missing schedules by about one-half - each job
+was taking approximately twice as long as estimated." (pg. 89)
 
+"These showed that the estimating error could be entirely accounted for by the
+fact that his teams were only realizing 50 percent of the working week as actual
+programming and debugging time. Machine downtime, higher-priority short
+unrelated jobs, meetings, paperwork, company business, sickness, personal time,
+etc. accounted for the rest. In short, the estimates made an unrealistic
+assumption about the number of technical work hours per man-year." (pg. 89-90)
 
+"Programming productivity may be increased as much as five times when a suitable
+high-level language is used." (pg. 94)
 
+Ch. 9: Ten Pounds in a Five-Pound Sack
+
+AJM: Programming space and size control largely irrelevant today 
+
+"Beyond craftmanship lies invention, and it is here that lean, spare, fast
+programs are born. Almost always these are the result of strategic breakthrough
+rather than tactical cleverness. Sometimes the strategic breakthrough will be a
+new algorithm ... "
+
+"Much more often, strategic breakthrough will come from redoing the
+representation of the data or tables. This is where the heart of a program lies.
+Show me your flowcharts and conceal your tables, and I shall continue to be
+mystified. Show me your tables, and I won't usually need your flowcharts;
+they'll be obvious." (pg. 102)
+
+Ch. 10: The Documentary Hypothesis
+
+"The hypothesis: Amid a wash of paper, a small number of documents become the
+critical pivots around which every project's management revolves. These are the
+manager's chief personal tools. - W. Bengough, "Scene in the old Congressional
+Library," 1897" (pg. 107)
+
+"The technology, surrounding organization, and the traditions of the craft
+conspire to define certain items of paperwork that a project must prepare. To
+the new manager, fresh from operating as a craftsman himself, these seem an
+unmitigated nuisance, an unnecessary distraction, and a white tide that
+threatens to engulf him. And indeed, most of them are exactly that."
+
+"Bit by bit, however, he comes to realize that a certain small set of these
+documents embodies and expresses much of his managerial work. The preparation of
+each one serves as a major occasion for focusing thought and crystallizing
+discussions that otherwisewould wander endlessly. Its maintenance becomes his
+surveillance and warning mechanism. The document itself serves as a checklist, a
+status control, and a database for his reporting." (pg. 108)
+
+DOCUMENTS FOR A COMPUTER PROJECT
+
+"Objectives. This defines the need to be met and the goals, desiderata,
+constraints, and priorities."
+
+"Specifications. This is a computer manual plus performance specification. It is
+one of the first documents generated in proposing a new product, and the last
+document finished."
+
+"Schedule."
+
+"Budget. Not merely a constraint, the budget is one of the manager's most useful
+documents. Existence of the budget forces technical decisions that otherwise
+would be avoided; and more important, it forces and clarifies policy decisions."
+
+"Organization Chart."
+
+"Space allocations." (pg. 108)
+
+"Estimate, forecast, prices." (pg. 109)
+
+"In many software projects, people begin by holding meetings to debate
+structure; then they start writing programs. No matter how small the project,
+however, the manager is wise to begin immediately to formalize at least
+mini-documents to serve as his database. And he turns out to need documents much
+like those of other managers." (pg. 110)
+
+WHY HAVE FORMAL DOCUMENTS?
+
+"First, writing the decisions down is essential. Only when one writes do the
+gaps appear and the inconsistencies protrude. the act of writing turns out to
+require hundreds of mini-decisions, and it is the existence of these that
+distinguishes clear, exact policies from fuzzy ones."
+
+"Second, the documents will communicate the decisions to others. The manager
+will be continually amazed that policies he took for common knowledge are
+totally unknown by some member of his team. Since his fundamental job is to keep
+everybody going in the same direction, his chief daily task will be
+communication, not decision-making, and his documents will immensely lighten his
+this load."
+
+"Finally, a manager's documents give him a database and checklist. By reviewing
+them periodically he sees where he is, and he sees what changes of emphasis or
+shifts in direction are needed." (pg. 111)
+
+"... only a small part - perhaps 20 percent - of the executive's time is spent
+on tasks where he needs information from outside his head. The rest is
+communication: hearing, reporting, teaching, exhorting, counseling, encouraging.
+But for the fraction that is data-based, the handful of critical documents are
+vital, and they will meet almost all needs." 
+
+"The task of the manager is to develop a plan and then to realize it. But only
+the written plan is precise and communicable." (pg. 112)
+
+Ch. 11: Plan to Throw One Away
+
+"In most projects, the first system built is barely usable. It may be to slow,
+too big, awkward to use, or all three. There is no alternative but to start
+again, smarting but smarter, and build a redesigned version in which these
+problems are solved." (pg. 116)
+
+"Where a new system concept or new technology is used, one has to build a system
+to throw away, for even the best planning is not so omniscient as to get it
+right the first time."
+
+"The management question, therefore, is not whether to build a pilot system and
+throw it away. You will do that. The only question is whether to plan in advance
+to build a throwaway, or to promise to deliver the throwaway to customers."
+
+"Delivering that throwaway to customers buys time, but it does so only at the
+cost of agony for the user, distraction for the builders while they do the
+redesign, and a bad reputation for the product that the best redesign will find
+hard to live down."
+
+"Hence plan to throw one away; you will, anyhow." (pg. 116)
+
+THE ONLY CONSTANCY IS CHANGE ITSELF
+
+"The first step is to accept the fact of change as a way of life, rather than an
+untoward and annoying exception." (pg. 117)
